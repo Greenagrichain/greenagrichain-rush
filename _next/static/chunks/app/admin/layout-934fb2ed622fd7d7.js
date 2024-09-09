@@ -3,4 +3,4 @@
  *
  * This source code is licensed under the MIT license.
  * See the LICENSE file in the root directory of this source tree.
- */var n=(0,a(24021).Z)("outline","arrow-left","IconArrowLeft",[["path",{d:"M5 12l14 0",key:"svg-0"}],["path",{d:"M5 12l6 6",key:"svg-1"}],["path",{d:"M5 12l6 -6",key:"svg-2"}]])}},function(e){e.O(0,[792,6697,2031,3651,2817,4967,4881,2090,3677,3014,1744],function(){return e(e.s=8033)}),_N_E=e.O()}]);
+ */var n=(0,a(24021).Z)("outline","arrow-left","IconArrowLeft",[["path",{d:"M5 12l14 0",key:"svg-0"}],["path",{d:"M5 12l6 6",key:"svg-1"}],["path",{d:"M5 12l6 -6",key:"svg-2"}]])}},function(e){e.O(0,[792,6697,2031,3651,2817,650,1148,653,2090,3677,3014,1744],function(){return e(e.s=8033)}),_N_E=e.O()}]);
